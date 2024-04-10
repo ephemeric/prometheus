@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+title: Awesome Prometheus alerts
+description: Collection of alerting rules
+
+repository: samber/awesome-prometheus-alerts
+
+baseurl: /awesome-prometheus-alerts
